@@ -1,0 +1,10 @@
+[
+    {
+        "description": "Transport; amount: 500",
+        "amount": 500.0
+    },
+    {
+        "description": ": Lunch; amount: 1250.50",
+        "amount": 1250.5
+    }
+]
